@@ -8,7 +8,7 @@ Each directory contains the main program used to create all pictures shown in th
 
 For example, the [Project 1](https://github.com/ArwedMeinert/Numerical-Mathmatica/tree/main/Projekt%201) directory contains the main [Project](https://github.com/ArwedMeinert/Numerical-Mathmatica/blob/main/Projekt%201/Projekt1.m), as well as the implementation of the [Langrande-Algorithm](https://github.com/ArwedMeinert/Numerical-Mathmatica/blob/main/Projekt%201/Lagrange.m), the [Langrande-Barycent-Algorithm](https://github.com/ArwedMeinert/Numerical-Mathmatica/blob/main/Projekt%201/LagrangeBarycent.m) and the function to create the [Barycent-Matrix](https://github.com/ArwedMeinert/Numerical-Mathmatica/blob/main/Projekt%201/barycentMatr.m).
 
-The sub-assignements are as follows:
+The sub-assignements were as follows:
 
 - [Interpolation](https://github.com/ArwedMeinert/Numerical-Mathmatica/tree/main/Projekt%201)
 - [Numerical Diferentiation](https://github.com/ArwedMeinert/Numerical-Mathmatica/tree/main/Projekt%202)
