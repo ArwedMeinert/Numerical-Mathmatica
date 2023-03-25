@@ -1,4 +1,4 @@
-# Numerical-Mathmatica
+# Numerical-Mathmatics
 
 For my numerical mathematics course, the assignement was to implement a variety of numerical algorithms we learned about in the class in a mathematical programming language of our choice (I used MatLAB/Octavce). After that, we should write a [thesis](https://github.com/ArwedMeinert/Numerical-Mathmatica/blob/main/Thesis%20Numerical%20Mathmatics.pdf) about our solutions (translated for the purpose of uploading this this by DeepL).
 
